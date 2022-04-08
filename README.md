@@ -1,2 +1,3 @@
 # csdl_week1
-Nộp bài tuần 1
+file sql dùng để tạo bảng
+File txt thực hiện các yêu cầu alter table.
